@@ -1,0 +1,5 @@
+5
+
+函数就是操作。上次课用炒菜做类比
+（1）简单函数（starting from 3.4 adding new functions）
+（2）有结果的函数

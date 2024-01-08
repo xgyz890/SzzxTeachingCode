@@ -1,0 +1,1 @@
+os = python 操作系统模块，可以操作文件chdir = change directorygetcwd = get current directory，获得目前的工作路径listdir = list directory，列出文件夹里的文件splitext = split extension，分割扩展名strip = 去除空白符zfill = 填充文字（默认左边补零）format = 格式字符串，可以拼凑成自己想要的形式rename = 文件重命名
