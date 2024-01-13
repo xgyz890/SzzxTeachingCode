@@ -11,3 +11,6 @@ for _ in range(k):
         y+=1
 print(y,m,y/m)
 print(6/(math.pi**2))
+
+# a math proof:
+# https://math.stackexchange.com/questions/64498/probability-that-two-random-numbers-are-coprime-is-frac6-pi2
